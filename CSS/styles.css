@@ -14,6 +14,15 @@ h2 {
 h3 {
     font-family: 'Montserrat', sans-serif;
 }
+.imagem-perfil {
+    width: 300px;
+}
+.img-habil {
+    width: 300px;
+}
+.img-game {
+    width: 250px;
+}
 .top {
     background-color: #E3FDFD;
     position: relative;
