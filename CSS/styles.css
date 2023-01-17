@@ -24,10 +24,14 @@ h3 {
     width: 230px;
 }
 .img-habil {
-    width: 300px;
+    float: left;
+    margin-right: 30px;
+    width: 25%;
 }
 .img-game {
-    width: 250px;
+    float: right;
+    
+    width: 25%;
 }
 .top {
     background-color: #E3FDFD;
@@ -62,4 +66,6 @@ h3 {
 .skill-row {
     margin: 100px auto 100px auto;
     width: 50%;
+    text-align: left;
+    line-height: 2rem;
 }
