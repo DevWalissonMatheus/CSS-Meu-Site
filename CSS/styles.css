@@ -59,3 +59,7 @@ h3 {
 .footer-link {
     color: #11999E;
 }
+.skill-row {
+    margin: auto;
+    width: 50%;
+}
