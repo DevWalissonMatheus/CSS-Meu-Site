@@ -65,6 +65,11 @@ hr {
 .footer-link {
     color: #11999E;
 }
+.text-perfil {
+    margin: auto auto auto auto;
+    width: 50%;
+    line-height: 2rem;
+}
 .skill-row {
     margin: 100px auto 100px auto;
     width: 50%;
