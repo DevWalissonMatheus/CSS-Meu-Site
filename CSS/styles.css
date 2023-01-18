@@ -34,7 +34,7 @@ h3 {
     width: 25%;
 }
 .top {
-    background-color: #E3FDFD;
+    background-color: #EAF6F6; /* E3FDFD cor que eu estava usando antes*/
     position: relative;
     padding-top: 140px;
     line-height: 3.5rem;
