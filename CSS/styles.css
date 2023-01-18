@@ -48,7 +48,7 @@ hr {
 .top {
     background-color: #EAF6F6; /* E3FDFD cor que eu estava usando antes*/
     position: relative;
-    padding-top: 120px;
+    padding-top: 50px;
     line-height: 3.5rem;
 }
 .bottom-container {
@@ -65,9 +65,9 @@ hr {
     position: absolute;
 }
 .top-nuvem {
-    position: absolute;
-    right: 310px;
-    bottom: 560px;
+    position: relative;
+    left: 345px;
+    top: 60px;
 }
 .btn {
     color: #11999E;
