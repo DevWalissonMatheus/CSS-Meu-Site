@@ -14,11 +14,13 @@ h2 {
     color: #66BFBF;
     font-family: 'Montserrat', sans-serif;
     font-size: 1.8rem;
-    font-weight: normal;
 }
 h3 {
     color: #11999E;
     font-family: 'Montserrat', sans-serif;
+}
+p {
+    color: #40514E;
 }
 .imagem-perfil {
     width: 230px;
